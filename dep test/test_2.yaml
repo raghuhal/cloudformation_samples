@@ -1,0 +1,3 @@
+Resources:
+  SampleTpoic2:
+    Type: AWS::SNS::Topic
